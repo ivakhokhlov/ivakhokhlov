@@ -3,9 +3,7 @@
 I am a data scientist & fullstack developer!
 
 🌱 **My skills:**
-| TypeScript | JavaScript | VueJs | Python | SQL | Django |
-
-| PostgreSQL | HTML5 | CSS3 | Tailwind CSS | Git | Docker | FastAPI |
+| TypeScript | JavaScript | VueJs | Python | SQL | Django | PostgreSQL | HTML5 | CSS3 | Tailwind CSS | Git | Docker | FastAPI |
 
 
 
