@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Ivan 👋
+
+I am a data scientist & fullstack developer!
+
+🌱 **My skills:**
+| TypeScript | JavaScript | VueJs | Python | SQL | Django |
+| PostgreSQL | HTML5 | CSS3 | Tailwind CSS | Git | Docker | FastAPI |
+
+
+
 
 <!--
 **ivakhokhlov/ivakhokhlov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
