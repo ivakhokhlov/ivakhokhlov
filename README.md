@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+Ivan👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grape+Nuts&size=27&pause=1000&color=0AB0BA&background=FFFFFF00&width=435&lines=Hi%2C+I'm+Ivan+%F0%9F%91%8B;I+am+a+data+scientist+%26+fullstack+developer)](https://git.io/typing-svg)
 
 I am a data scientist & fullstack developer!
 
@@ -9,6 +9,7 @@ I am a data scientist & fullstack developer!
 
 
 <!-- ## Hi there, I'm Ivan 👋
+https://readme-typing-svg.herokuapp.com/demo - **first line**  #CE5FF7FF
 **ivakhokhlov/ivakhokhlov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
