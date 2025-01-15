@@ -1,14 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grape+Nuts&size=27&pause=1000&color=0AB0BA&background=FFFFFF00&width=435&lines=Hi%2C+I'm+Ivan+%F0%9F%91%8B;I+am+a+data+scientist+%26+fullstack+developer!)](https://git.io/typing-svg)
 
-I am a data scientist & fullstack developer!
-
 🌱 **My skills:**
 | TypeScript | JavaScript | VueJs | Python | SQL | Django | PostgreSQL | HTML5 | CSS3 | Tailwind CSS | Git | Docker | FastAPI |
 
 
 
 
-<!-- ## Hi there, I'm Ivan 👋
+<!-- ## Hi there, I'm Ivan 👋  I am a data scientist & fullstack developer!
 https://readme-typing-svg.herokuapp.com/demo - **first line**  #CE5FF7FF
 **ivakhokhlov/ivakhokhlov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
